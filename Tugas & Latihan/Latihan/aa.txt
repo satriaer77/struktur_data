@@ -8,3 +8,15 @@
 + 4 hari riset data (17-20 Maret)
 + 7 Menyusun proposal (21-27)
 + 2 hari Review (29 Maret)
+
+
+
+Infix
+ a*b+c*d
+ (a+b)*(c+d)
+(a+b)*d+c
+
+Postfix
+ abcd*+
+ +*ab+dc
+
